@@ -1,10 +1,10 @@
 <project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
-    <modelVersion>4.0.0</modelVersion>
-    <groupId>com.visualpathit</groupId>
-    <artifactId>vprofile</artifactId>
-    <packaging>war</packaging>
-    <version>v1</version>
+    <modelVersion>4.0.1</modelVersion>
+    <groupId>com.ashok</groupId>
+    <artifactId>ashok</artifactId>
+    <packaging>ear</packaging>
+    <version>ashok1</version>
     <name>Visualpathit VProfile Webapp</name>
     <url>http://maven.apache.org</url>
     <properties>
