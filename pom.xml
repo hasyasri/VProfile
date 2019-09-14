@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.ashok</groupId>
     <artifactId>ashok</artifactId>
-    <packaging>ear</packaging>
+    <packaging>war</packaging>
     <version>ashok1</version>
     <name>Visualpathit VProfile Webapp</name>
     <url>http://maven.apache.org</url>
